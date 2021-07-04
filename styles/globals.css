@@ -42,8 +42,21 @@ header a {
 .container {
   max-width: 768px;
   margin: auto;
-  overflow: auto;
   padding: 0 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links {
+  list-style-type: none;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .btn {
@@ -127,6 +140,19 @@ ol {
   padding: 20px;
   margin: 20px 0;
   line-height: 2.3;
+}
+
+.about-container {
+  text-align: center;
+}
+
+.about-image {
+  border-radius: 50%;
+}
+
+.about-icons {
+  font-size: 2rem;
+  cursor: pointer;
 }
 
 @media (max-width: 500px) {
