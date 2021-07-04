@@ -73,6 +73,20 @@ header a {
   margin-bottom: 20px;
 }
 
+.hero {
+  background-color: aqua;
+  height: 80vh;
+  position: relative;
+}
+
+.hero-text {
+  color: white;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 75%;
+  left: 50%;
+}
+
 .posts {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
