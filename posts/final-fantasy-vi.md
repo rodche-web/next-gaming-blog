@@ -5,50 +5,14 @@ excerpt: 'Final Fantasy VI is a role playing game made by Squaresoft for the Sup
 cover_image: '/images/posts/ffvi.jpg'
 ---
 
-Lorem [markdownum](http://insunt.org/inpositaque), et sanguine rutilos dixit
-nigro cornu genus duris linguae. Super hic deus ego adveniens nullumque Venerem
-equis aurem aliisque celare densis dextramque similis **post**: mihi rexerat;
-bis.
+A thousand years ago, the War of the Magi occurred. People remember it as one of the most horrible tragedies in history. Since the War of the Magi, magic has been all but forgotten, technology began to grow, and people returned to seemingly normal lives. The only true worry people have is the Empire, whose leaders are looking to revive the great force once known as "magic".
 
-1. Scinditur annos
-2. Talia verba
-3. Habet delata villis domui
-4. Geminum viscere deum et utque
+The Empire had heard word of the remains of a mystical being, known as "Esper", being found in the mining town of Narshe. Quickly, three soldiers were dispatched to find this Esper and bring it to the Emperor. One of the soldiers, a young girl, triggers a power in the Esper that initiates a dangerous series of events. The only ones who can help her are a rag-tag band of rebels and heroes, who offer their very hearts and souls to save the world from the mad plans of the Empire.
 
-## Magnorum nulla avertit pedem neque monimenta terram
+The sixth entry in the Final Fantasy series was dubbed Final Fantasy III in the West because three out of the five previous installments of the series had not been released there at the time. Similarly to its predecessors, this is a role-playing game where the player controls a party of characters, travelling between various locales in the world, fighting randomly appearing regular enemies and bosses, and making the characters stronger by improving their skills and getting better equipment for them. The game maintains the ATB (active time battle) system of the two previous installments in the series, spicing traditional turn-based combat engine with a real-time element.
 
-Quo numquam, nunc [concussaque](http://mox-cunctos.net/), hora effugit mihi,
-pectore. Hinc fausto, circumspicit cadas; virilibus rapui, timidum rorat cuique
-animorum ac! Quem sit. Venit qui, rex sibi tota, peto _fortis ira suis_ dolusque
-simulatque [incipit crudelesque
-pavens](http://www.corpora.com/terrae-oscula.html) spatiosa conlegit oscula
-equam.
+In battle, every character can fight using weaponry and items, and each has a special combat skill as well. It is also possible for nearly every character to learn magic spells. By finding various Espers and equipping them on characters, the player can improve their parameters in different ways and choose the magic spells the characters should learn.
 
-## Mensis idem
+Unlike most other Japanese RPGs, the game does not have a single main character. Rather, the player-controlled party can be considered the game's collective protagonist. The first part of the game develops linearly, with one of the characters playing a central role; however, during the second part the player is associated with a different character initially, exploring the game world, recruiting characters, and completing sub-quests in a non-linear fashion.
 
-Caelestia Ganymedes gentis. Veni inpellit publica tecta bellaque mortali loca
-_mea gente_ qui Enipeus iramque et hoc. _Altera Rex vetitum_; hoc magis dolores
-precor nec. Ubi verba, et aras regia, cognoscere vites tempusque expers, heros?
-
-## Mihi puto pallorem
-
-Hac forma, habeo quam et patria, ille tulit volat quamquam vulnus, aere est.
-Ignis sequerere membra Pirithoo: caruerunt saevumque, sumus, ignesque poterit
-intus de fonte.
-
-## Quondam montibus tua spes consilioque nata consilioque
-
-Abigitque limite. Ipsa levis extulit munera, litora, ira pavet in morte, **te
-in** quas [vix](http://auxiliumquefando.net/vocibus-cum). Mitis tinxit, modus
-promissa **ne volucris** simul genetrixque Iovis in deae modo **in** des.
-_Memini isto hostilia_ Aeneas, in ponto **nova eventu cetera** iugum animam
-ille, viro, nec. Loquendi aves insisto saecula premente nec, at ego poscit ubi
-sub!
-
-- Tristis natorum ora talia patriis famae naidas
-- Deus scilicet male miliaque noctisque invenio Nilum
-- Efficerentque devexaque foret haec leve ab fertilis
-
-Institerat quantum facies parientem, crepitantis nondum. Atque atris arcebat
-factis nil Lucina mori sinu est partibus specie, imo interea tellus luctu
-inmunitamque genus Amphitryoniaden?
+PlayStation re-release of the game includes new FMV cutscenes, bestiary and artwork galleries. Game Boy Advance version and later Android, iOS and PC releases remove FMVs, but instead include two new bonus dungeons (the Dragons' Den and the Soul Shrine), new bosses, espers, weapons and gear, as well as many other minor additions and changes.

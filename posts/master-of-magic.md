@@ -5,48 +5,24 @@ excerpt: 'Master of Orion is a turn-based strategy game made by Simtex for the M
 cover_image: '/images/posts/magic.png'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+Master of Magic is a great game. Its environmental depth, the thrilling malleability of its heroes and creatures, its gloriously overpowered spells--what a mountain of effort they represent! A truly remarkable achievement on the part of SimTex.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+MoM is often described as a synthesis of Civilization and Master of Orion, and that's pretty close to the mark. A more or less standard 4x empire builder is the core of the experience--the player starts from a single hamlet and seeks to conquer the randomly generated gameworld, settling/capturing new cities, mastering obstacles, controlling resources and researching technology (spells!) to achieve supremacy
 
-## Turpius Aegides membris colat volentes fallere
+The biggest change from your standard Civ clone is the world map. Dotted all around the world are not just opposing civilizations but monster lairs, magic nodes, neutral cities, temples, towers, and wandering critters spawned from all of the above. Scattered on two whole planes of existence (Arcanus and the magical Myrror), this local menagerie encourages exploration and defense in ways that faceless Civilization-style barbarians never have, and moreover they provide the player with a near endless list of varied obstacles to surmount. Long after dealing with the various enemy wizards scattered about becomes a bore, the "neutral" foes of the map will still pose a challenge (fear the great worms!) to even your finest stack of units.
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+And your units are wonderfully fleshed out. All gain experience and levels, and the boosts to their abilities are critical to beating the game. A complex system of mechanics controls all characters in the world. Grounded by routine combat statistics and elevated by supremely imaginative special abilities, this allows almost limitless possibilities, richly rewarding creative spellcasting from the player. Want to create a flying fleet of invisible fire-shooting warships? Want to eschew ships entirely and have your armies just walk on water? Do it! The degree to which player creativity is encouraged by these unique combinations of units and enchantments is one of the best features of the game.
 
-## O contra diu
+Heroes in particular have some very satisfying and useful special skills. Worried your army is going to get wiped out? Just bring along a hero with High Prayer and your attacks and defense will be 30% more effective. Have lots of green, inexperienced units scattered about? Stack them with an Armsmaster and they'll be elite in no time. Falling asleep while your armies trudge one slow square at a time towards their goal? Add in a Pathfinder hero and a Forester/Mountaineer and they'll have their arrival time cut more than in half.
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
+The magic system is also beautifully detailed and in-depth. Based on each magic book your wizard has of a certain discipline, you receive a certain number of common, uncommon and rare spells. The spell pool for each discipline of magic is varied and vast enough to allow for meaningfully different experiences based on which spells you happen to get, and what sort of race you've chosen, and what sort of opponents and obstacles exist in your worlds. Magic comes from a wizard's "power base," which is gained from city buildings like temples and magical nodes scattered about the map. The latter can be defended by some awe-inspiring monsters, especially on Myrror.
 
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
+The overwhelming power of some of the rarer spells is immensely satisfying when casted by the player, and supremely terrifying when casted -at- the player. This is all to the good--if you're making a game about all-powerful wizards waging war, you can't be skittish about putting some devastatingly potent spells in the game. Bland, weak, or limited magic has ruined many a similar title.
 
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
+The robust, flexible units and powerful magic make combat a real joy. Combat takes place not by one tile squashing another (or a whole stack!) a la Civ, but in an isometric perspective, where each of up to nine units on either side move and attack individually. Hit points, statistics and tactics all therefore become serious considerations. Battles in fact require some serious tactical acumen early on, as the choice of which spell to cast or whether or not to move or attack, etc. can actually make or break the battle. For this reason it's often worth saving before an encounter, because the outcome is never certain if the forces are relatively balanced. While doing so in other similar games often feels like a repetitive chore of gaming the random number generator, in MoM there really is a world of creative possibilities for the player to try out in each encounter, and smart choices actually -will- affect the outcome.
 
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+Adding to this variety (somewhat) is a wide variety of playable races. More importantly, each of the magical disciplines has a distinct character and playstyle. Since one's starting wizard can be made from a preset character or wholly customized, the many possible combinations of magic books allow for even more diversity. There are also over a dozen available wizard attributes (with varying degrees of usefulness) that provide bonuses to the player's avatar, such as Alchemy which allows for cheaper creation of magic artifacts, or Warlord, which allows for Ultra-Elite military units. One's choice of wizard therefore greatly increases the longevity of the game, as there will always be a new combination of magic, abilities and race to try.
+
+This makes MoM a -huge- game. Far bigger than its older brother Master of Orion. I've played this game for years off and on and still haven't fully explored all the possibilities.
+
+All this works together (given the latest patch!) for an extremely long-lived experience. It will take you an unbelievably long time to explore all of MoM's ins and outs. It also remains extremely addictive to this day, despite its flaws.

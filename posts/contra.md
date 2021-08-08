@@ -5,48 +5,10 @@ excerpt: 'Contra is a run and gun shooter made by Konami for the Nintendo Entert
 cover_image: '/images/posts/contra.png'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+The original Contra and its sequel, Super Contra, were set in the distant future, during the 27th century (in 2633 and 2634 respectively). The Famicom (Japanese NES) port even had an introduction sequence detailing the plot. However, when the NES version was localized, the cut-scenes were removed due to the fact that Konami was forced use a standard Nintendo-made mapper instead of the proprietary VRC4 mapper they used for the Japanese version (Nintendo had made no such restriction in Japan regarding the use of custom chips and cartridges, thus third-party companies were allowed to take such liberties if they wanted).
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+Since the US NES version had no in-game storyline, the author of the US manual took the liberty of placing the game's plot in the present. Moreover, the setting was changed from the fictional Galuga archipelago to the Amazons and the nicknames "Mad Dog" and "Scorpian" were given to the main characters, Bill and Lance (who also lost their surnames in the process).
 
-## Turpius Aegides membris colat volentes fallere
+When the series made it's appearance on the SNES in the form of Contra III: The Alien Wars, the intro made it clear that the game was set in the future (2636). Since there was no way cover their previous mistakes, the author of the manual this time declared that the main characters in Contra III were not Bill and Lance, but their apparent descendants, Jimbo and Sully.
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
-
-## O contra diu
-
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
-
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
-
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
-
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+Ironically enough, the censored Probotector games released for the European NES had manuals that were more faithful to their Japanese counterparts than the American versions.

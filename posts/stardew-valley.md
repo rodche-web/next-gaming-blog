@@ -5,48 +5,30 @@ excerpt: 'Stardew Valley is a farming simulator made by Eric Barone for various 
 cover_image: '/images/posts/stardew.jpg'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+When I first started hearing the positive buzz around Stardew Valley, it was almost always mentioned in the same breath as Harvest Moon. As a result, I didn’t expect it to be up my alley. In that series' heyday, I never played it because I stubbornly avoided anything that resembled a JRPG. With Stardew Valley, I’d surely put a few hours into it at the office, record our Quick Look, and move on to the next game.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+You'll become very familiar with all of these locations.
+That was weeks ago. Today, my in-game clock is nearing 70 hours and Stardew Valley is easily my favorite game of 2016 thus far. Even without tapping into any Harvest Moon nostalgia, it’s managed to pull me in and consume virtually all of my free time since I first installed it. Similarities to Animal Crossing initially stood out, but I soon realized how much more formidable of a time sink it could be thanks to its non-adherence to real-world time. I could only do so much in a single session of Animal Crossing before I’d need to put it down for a day, but Stardew Valley lets you burn through as many in-game days, weeks, and seasons as you can until you fall asleep.
 
-## Turpius Aegides membris colat volentes fallere
+I’ve been breathlessly trying to explain this game to anyone that will listen recently, and it’s always tricky to determine where to start. A big box retailer known as JojaMart is the primary antagonist (if you can call it that) of the game, and the intro sequence sees your character working at their dreary corporate office. After opening an old letter from your deceased grandfather, you learn that you’ve inherited a plot of land in Pelican Town that’s there whenever you feel the weight of modern life bearing down on you. You pack up your desk at JojaMart, and move out to the country for a slower pace of life.
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+That "slower pace of life" isn't relegated to rote farming chores, however. There is no one gameplay loop that you’ll settle into on a daily basis, as there are numerous deep systems within Stardew Valley’s Pelican Town. I’ll spend a whole day rearranging the fence and walking path layout of my farm, and the entirety of the next one battling monsters and harvesting minerals in the mines. While your options are varied and numerous on a day-to-day basis, there are a few big goals that hover over your long-term time on the farm.
 
-## O contra diu
+The first of these long-term goals involves unlocking major upgrades to the town, and this can be accomplished in one of two ways. One involves collecting a large assortment of crops, fish, and other items in an effort to renovate Pelican Town’s dilapidated community center. The other involves purchasing a membership at the town’s JojaMart location, which results in the community center getting demolished to make way for a Joja warehouse. Choosing this route allows you to purchase the town upgrades with cold hard cash instead of the item bundles at the community center. The “small town heart vs. corporate greed” message isn’t subtle, but it still feels far more rewarding to assemble rare items and witness the gradual restoration of the community center than it does if you opt to buy the upgrades outright. Assembling the various community center bundles is a lengthy ordeal, and I’m still working towards finishing several of them even with the substantial amount of time I’ve spent with the game.
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
+I have the random name generator to thank for my horse, Nutsoever.
+Another long-term goal comes in the form of marriage, and the pursuit of tying the knot showcases the great writing and personality that creator Eric Barone has brought to the denizens of Pelican Town. My first few weeks in town led to me thinking I’d pursue Penny, and I lavished her with gifts and talked to her constantly in an effort to get closer with her. It wasn’t until I was dozens of hours into the game that I realized I enjoyed my interactions with Abigail more (specifically that time that she invited me into her room to play a co-op console game with her).
 
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
+I’m still working on the larger-scale objectives of finishing the community center and wedding Abigail, but my time with Stardew Valley has been constantly filled with the joy of completing smaller objectives. A constantly changing note on my desktop reminds me of the myriad goals I have at any particular point in time. My character will wake up tomorrow morning, and I can choose if I want to spend the day going after a fish I need for a community center bundle, collecting hardwood so that I can make more cheese presses, rearranging the layout of my sprinklers and scarecrows, cooking and delivering a meal to Abigail, taking the bus to the desert to fight my way through a dangerous cavern, or any number of other activities. It may sound overwhelming, but it never feels that way. Each day my character wakes up, I’m excited to get out there and plug away at something new that I’ve been working on.
 
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
+Sprinklers are a godsend after a few seasons of manual watering.
+It doesn’t even feel like a slow grind. Stardew Valley makes you feel like you’re constantly on the cusp of another breakthrough that will change the way you farm or spend your time. It’s exciting every time you get a new animal, upgrade a tool, equip a new weapon, unlock the ability to make a new kind of artisan food, assemble a community center bundle, or construct a more efficient way to manage your crops. Oh right, crops. If you’re someone that looks at Stardew Valley and dismisses it as just a nostalgia-grab farming game, notice that I’ve spent seven paragraphs talking about this game without even discussing that element. The conceit of the game revolves around starting a farm, but crop management and making money is simply a system for unlocking more and more of the charm surrounding Pelican Town.
 
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+While Harvest Moon is a clear inspiration for much of Stardew Valley, the Animal Crossing influence is noticeable as well. Like in the Nintendo series, you’ll spend time delivering gifts to villagers on their birthdays, attending holiday festivals, donating items to a museum’s collection, catching fish, and upgrading your house. Those pursuits are still satisfying, but Stardew Valley makes them feel like just a small handful of the activities that you can choose to do. With full systems for farming, combat, cooking, crafting, relationships, and more, it feels like a far more substantial experience. On top of that, a seemingly endless amount of little joys can be found everywhere. I even love activities as simple as clearing farmland at night before I go to bed, watching a cooking show in the morning to learn new recipes, and riding my horse around town to deliver meals that I cooked for my neighbors.
+
+Weird stuff is gonna happen sometimes. Just go with it.
+Even when you settle into a rhythm and feel like you know what to expect, the game tends to throw curveballs at you. Little cutscenes will appear seemingly at random, and some of them hint at town mysteries that I still can’t explain. I went to bed one night expecting to wake up and go about my normal day, but a witch visited my farm while I slept and sprinkled something on my chicken coop. I beelined there the next morning to figure out what the hell happened, and found a black-and-red egg sitting amongst my standard chicken and duck eggs. After incubating this egg for a few days, a demonic chicken hatched from it. So now, I have a demon chicken running around laying demon chicken eggs and I have no idea what’s going on. Other unexplainable things have happened, such as a fairy that appeared in the rain one day. Talking to friends about this game yields other mysteries, such as a secretive man that appears on the beach that I haven’t encountered yet. Extensive wikis and websites would likely spell these events out for me, but I love encountering the unexpected in Stardew Valley and wondering where it goes. Even if these instances are left unexplained, their inclusion adds a great air of mystery to Pelican Town.
+
+Creator Eric Barone has stated that he plans on continuing to add dialogue and events to the game in the future, so I hope to have a reason to spend dozens more hours in Pelican Town. It’s staggering that one man developed this game, and it’s not a simple quantity over quality affair. There’s so much to do in this game, but that wouldn’t matter if it all felt like soulless busywork. Barone has injected heart and personality into every element of Stardew Valley, from conversations with the villagers to the stellar soundtrack. Somehow, this one-man effort is almost entirely free of bugs. I’ve seen two minor bugs in my 70 hours with the game, and he completely fixed one of them hours after being notified about it on Twitter. His work is a resounding success, leading to the formation of one of the most positive and enthusiastic gaming communities I’ve ever seen (fans buying copies of the game for pirates being one of the more well-known examples).
+
+I went from never hearing about this game to absolutely falling in love with it almost instantly. Even after all the time I’ve already put into the game, I can’t help but get excited when I think about what my character will be doing in the next in-game year, or the one after that. Huge elements of Stardew Valley are still ahead of me, from getting married to finishing my work on the community center. I’ve heard people refer to this as a “podcast game,” and while I agree that it could fit that bill nicely, I’ve never felt the need to distract myself from what’s happening in Pelican Town. Some might look at this and say it’s just a farming game, or that it borrows liberally from Harvest Moon, Animal Crossing, Terraria, and Rune Factory. While there are obvious elements present from these influences, they come together to form something that’s wholly its own experience. Stardew Valley would be a fantastic accomplishment for a team of any size, but the fact that it’s a labor of love from one man is staggering. My time with this game has only become more and more rewarding as I go on, and there’s still no end in sight. Like with any game, I’ll eventually set it down and move on, but I have no doubt that I will have strong, happy memories of Stardew Valley for years to come.

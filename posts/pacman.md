@@ -5,48 +5,13 @@ excerpt: 'Pacman is a maze type action game made by Namco for the arcades'
 cover_image: '/images/posts/pacman.png'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+Though munching pills and shaking your booty to repetitive music might be quite a common Saturday night out for today's youngsters, who's to say that we might find ourselves staring at a few less bleary eyed alleged young adults if it wasn't for the 1979 release of a little title known as Pac-Man.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+Gaming's most recognised icon might have starred in his own cartoon series, but it was the pill-munching, ghost-gobbling gameplay of the initial arcade title that helped carry the gaming world into a new frontier.
 
-## Turpius Aegides membris colat volentes fallere
+Starring the little yellow chap named in the title, things here are of a certain kind of simplistic but astonishingly addictive brand,that leaves you constantly craving more. Even when you've just died for the umpteenth time.
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+Meandering through the angular maze, chomping those nourishing little dots that covered every inch of the gaming field, Pac-Man had to frantically gobble up the lot before the ghosts managed to cheekily trap him in a corner: the only goal required to progress to the next stage. But grab one of those larger, flashing dots towards each of the screen's four corners, and Pac-Man becomes more powerful than Jeff Minter himself, and you get the chance to turn things completely around and send those annoying ghosts back to their central pen with a single bite.
 
-## O contra diu
+Regularly heralded as the 'most popular game of all time' Pac-Man might not have been drenched in graphical splendour, but its sheer addictive nature meant it was one of those titles you couldn't ever forget. Let's just be happy that we didn't end up with its original title, Puck-Man. Just say it out loud and you'll discover why.
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
-
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
-
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
-
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.

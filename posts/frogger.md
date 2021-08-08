@@ -5,25 +5,6 @@ excerpt: 'Frogger is a retro style game made by Konami for the arcades'
 cover_image: '/images/posts/frogger.png'
 ---
 
-Lorem markdownum erat meritum instat quis! Parari vera harundinibus molibus nam
-illuc, **egi** tellus [facta ruinas](http://necloqui.com/fuit.html), iterumque!
-Parvo quae hinc cura poterat Iove gurgite thalamis fugitque turis, quin nunc.
+Your task in this arcade game is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.
 
-Tam Pomona _fixis cera vidisse_ Sperchios ista _concordes_ parte comes animalia
-ira miserae magna iaculatur sententia abest. [Est](http://puer-nec.io/squalidus)
-illam esse hasta? Iamque Argolico spumam quondam, Sirenes dolor longus arbor
-perque.
-
-## Iamque illa numquam dictis
-
-Verberat arma parte mariti, tempora mugit glomerataque illa epulis: Troiam. De
-illo ut Lyncus an mihi, est alas ventisque et **opem**, iure anxia, pes qua
-quodque nati. Morti est tertia tutissimus prope, **herbas** hoc cecidere
-videres. Iam anxia ab quis qui incomitata fluminaque vicinia adsumpserat inulta.
-Nascentia tibi significat fixurus quam Cnosiaci spectat obstipuere quem
-plenissima ita tangit cum nisi.
-
-Mirantia deique sacerdos, opus, at [generis eandem
-planamque](http://www.potentia.net/lapis). Caecos pedibus velo pennas esse nam
-nostri **rapit**, diu Caras, amantem, Areos Aeacides via. Ad quiescere, per
-dolores quoque; iterum Alcmene, est usque micantes subitae!
+The road is full of cars and trucks, at variable speeds. The river water itself is fatal, as are the snakes which hover within on later levels. Frogger must use the arrangement of logs, turtles (which are only there for a short time) and alligators (but stay away from their faces), and then jump into one of the open home-cells, ideally one containing a fly for extra points. Once all holes have been filled, you move onto the next, harder, level.
