@@ -87,9 +87,11 @@ header a {
 }
 
 .hero {
-  background-color: aqua;
-  height: 80vh;
+  background-color: rgb(26, 26, 26);
+  height: 50vh;
   position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .hero-text {
@@ -153,6 +155,13 @@ ol {
 .about-icons {
   font-size: 2rem;
   cursor: pointer;
+}
+
+.image-detail {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
 
 @media (max-width: 500px) {
