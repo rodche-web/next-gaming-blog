@@ -4,6 +4,7 @@ import matter from 'gray-matter';
 import marked from 'marked';
 import Link from 'next/link';
 import Head from 'next/head';
+import {ImArrowLeft} from 'react-icons/im'
 
 export default function PostPage({frontmatter: {title, date, cover_image}, slug, content}) {
     return (
@@ -11,10 +12,10 @@ export default function PostPage({frontmatter: {title, date, cover_image}, slug,
             <Head>
                 <title>Rodwin's Game Blog - {title}</title>
             </Head>
-            <Link href='/'>
-                <a className='btn btn-back'>Go Back</a>
-            </Link>
             <div className='card card-page'>
+                <Link href='/'>
+                    <a className='btn btn-back'><ImArrowLeft /> GO BACK</a>
+                </Link>
                 <h1 className='post-title'>{title}</h1>
                 <div className='post-date'>{date}</div>
                 <img className='image-detail' src={cover_image} />
